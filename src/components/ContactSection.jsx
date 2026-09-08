@@ -84,7 +84,7 @@ export const ContactSection = () => {
                                 <div>
                                     <h4 className="font-medium"> Location</h4>
                                     <a className="text-muted-foreground hover:text-primary transition-colors">
-                                        Guwahati, Assam, India
+                                        Bengaluru, Karnataka, India
                                     </a>
                                 </div>
                             </div>
@@ -93,7 +93,7 @@ export const ContactSection = () => {
                         <div className="pt-8">
                             <h4 className="font-medium mb-4"> Connect With Me</h4>
                             <div className="flex space-x-4 justify-center">
-                                <a href="https://www.linkedin.com/in/sagar-bastola-425785358/" target="_blank">
+                                <a href="https://www.linkedin.com/in/sagar-bastola-4b4452403/" target="_blank">
                                     <Linkedin />
                                 </a>
                                 <a href="https://x.com/SagarBasto19269" target="_blank">
